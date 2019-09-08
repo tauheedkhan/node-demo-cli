@@ -30,8 +30,27 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
+* [`mynewcli goodbye`](#mynewcli-goodbye)
 * [`mynewcli hello`](#mynewcli-hello)
 * [`mynewcli help [COMMAND]`](#mynewcli-help-command)
+
+## `mynewcli goodbye`
+
+Describe the command here
+
+```
+USAGE
+  $ mynewcli goodbye
+
+OPTIONS
+  -n, --name=name  name to print
+
+DESCRIPTION
+  ...
+  Extra documentation goes here
+```
+
+_See code: [src/commands/goodbye.js](https://github.com/tauheedkhan/mynewcli/blob/v0.0.0/src/commands/goodbye.js)_
 
 ## `mynewcli hello`
 
