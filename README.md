@@ -5,7 +5,7 @@ next gen cli
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/mynewcli.svg)](https://npmjs.org/package/mynewcli)
-[![CircleCI](https://circleci.com/gh/tauheedkhan/mynewcli/tree/master.svg?style=shield)](https://circleci.com/gh/tauheedkhan/mynewcli/tree/master)
+[![CircleCI](https://circleci.com/gh/tauheedkhan/node-demo-cli.svg?style=svg&circle-token=85a83ae2872cd62f48631474f35609656647a498)](https://circleci.com/gh/tauheedkhan/node-demo-cli)
 [![Codecov](https://codecov.io/gh/tauheedkhan/mynewcli/branch/master/graph/badge.svg)](https://codecov.io/gh/tauheedkhan/mynewcli)
 [![Downloads/week](https://img.shields.io/npm/dw/mynewcli.svg)](https://npmjs.org/package/mynewcli)
 [![License](https://img.shields.io/npm/l/mynewcli.svg)](https://github.com/tauheedkhan/mynewcli/blob/master/package.json)
