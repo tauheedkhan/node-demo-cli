@@ -44,7 +44,7 @@
       "@oclif/plugin-help"
     ],
     "hooks": {
-      "init": "./src/hooks/init/setupHook"
+      "init": "./src/hooks/init/setup-hook"
     }
   },
   "repository": "tauheedkhan/mynewcli",
