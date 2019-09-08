@@ -1,7 +1,7 @@
 {
   "name": "mynewcli",
   "description": "next gen cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "tauheedkhan @tauheedkhan",
   "bin": {
     "mynewcli": "./bin/run"

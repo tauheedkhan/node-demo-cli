@@ -21,7 +21,7 @@ $ npm install -g mynewcli
 $ mynewcli COMMAND
 running command...
 $ mynewcli (-v|--version|version)
-mynewcli/0.0.0 darwin-x64 node-v8.16.0
+mynewcli/1.0.0 darwin-x64 node-v8.16.0
 $ mynewcli --help [COMMAND]
 USAGE
   $ mynewcli COMMAND
@@ -50,7 +50,7 @@ DESCRIPTION
   Extra documentation goes here
 ```
 
-_See code: [src/commands/goodbye.js](https://github.com/tauheedkhan/mynewcli/blob/v0.0.0/src/commands/goodbye.js)_
+_See code: [src/commands/goodbye.js](https://github.com/tauheedkhan/mynewcli/blob/v1.0.0/src/commands/goodbye.js)_
 
 ## `mynewcli hello`
 
@@ -68,7 +68,7 @@ DESCRIPTION
   Extra documentation goes here
 ```
 
-_See code: [src/commands/hello.js](https://github.com/tauheedkhan/mynewcli/blob/v0.0.0/src/commands/hello.js)_
+_See code: [src/commands/hello.js](https://github.com/tauheedkhan/mynewcli/blob/v1.0.0/src/commands/hello.js)_
 
 ## `mynewcli help [COMMAND]`
 
