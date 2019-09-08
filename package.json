@@ -42,7 +42,10 @@
     "bin": "mynewcli",
     "plugins": [
       "@oclif/plugin-help"
-    ]
+    ],
+    "hooks": {
+      "init": "./src/hooks/init/setupHook"
+    }
   },
   "repository": "tauheedkhan/mynewcli",
   "scripts": {
