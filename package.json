@@ -45,6 +45,9 @@
     ],
     "hooks": {
       "init": "./src/hooks/init/setup-hook"
+    },
+    "macos": {
+      "identifier": "tauheed"
     }
   },
   "repository": "tauheedkhan/mynewcli",
